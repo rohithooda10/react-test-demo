@@ -2,7 +2,7 @@
 
 Convention to write tests-
 
-- Make folder **tests**
+- Make folder "\_\_tests\_\_" 
 - Make file ComponentName.test.js
 
 Run tests
